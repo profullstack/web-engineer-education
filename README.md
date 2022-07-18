@@ -1,4 +1,4 @@
-# web-engineer-education
+# web engineer education
 
 Educational videos, courses, lectures, texts, and blogs for web engineers
 
@@ -45,3 +45,7 @@ Educational videos, courses, lectures, texts, and blogs for web engineers
 
 - zsh
 - bash
+
+## Security
+
+## QA and Testing
