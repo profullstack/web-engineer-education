@@ -27,6 +27,7 @@ Educational videos, courses, lectures, texts, and blogs for web engineers
 - koa
 - express
 - oak (deno)
+- nginx (web server)
 
 ## Databases
 
